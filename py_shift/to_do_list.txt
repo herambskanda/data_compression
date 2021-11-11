@@ -1,0 +1,9 @@
+create fourier library general data distribution
+the library for choosing the numbers beyond (0:(length(unique(data))-1)) 
+kinda AI
+compression algorithm
+central data storing thingy from all the libraries
+decompression algorithm
+convert all of this to c or c++
+
+NOTE: try to make your own shit dont use a lot of packages slows the code down (fuckin python)
